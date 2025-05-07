@@ -1,2 +1,3 @@
-# alloraRAG_bots
-holds the slack and discord bots for our RAG model
+# Allora RAG bots
+
+Repo holds the slack and discord bots that integrate our RAG model
